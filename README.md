@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Stefan-Yu404
-- 👀 I’m interested in Python, java and linux.
+- 👋 Hi, I’m @Stefan-Yu404 @ Northwestern University - Statistics.
+- 👀 I prefer to use Python, R, java and linux.
 - 🌱 I’m currently learning machine learing especailly deep learning using tensorflow.
 - 💞️ I’m looking to collaborate on ...
 - 📫 email: zeqiu.yu18@gmail.com
