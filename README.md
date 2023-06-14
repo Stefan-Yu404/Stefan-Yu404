@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Stefan-Yu404 @ Northwestern University - Statistics.
 - 👀 Tools: Python(pytorch, sklearn, pandas, matplotlib), R, Linux, Java, C++.
-- 🌱 I’m currently hired by UPMC(University of Pittsburgh Medical Center) as Research assistant.
+- 🌱 <> I’m currently hired by UPMC(University of Pittsburgh Medical Center) as Research assistant.
 - 💞️ I’m interested in regression analysis, image segmentation and Machine Learning methods
 - 📫 email: zeqiu.yu18@gmail.com
 
